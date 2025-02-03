@@ -1,7 +1,0 @@
-{
-    "diagnostics.globals": [
-        "vim",
-        "grep",
-        "c_base"
-    ]
-}
